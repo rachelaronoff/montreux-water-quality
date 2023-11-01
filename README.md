@@ -4,7 +4,7 @@
 This repo was forked from the Hackuarium version, before the paper submission, for mods and is about to be archived.
 Here is [the current repo](https://github.com/Hackuarium/montreux-water-quality), which contain the first three seasons of data and analysis of the Montreux clean beach project.
 
-The analyses were originally based on [This Repo](https://github.com/Hackuarium/water-quality-2016-2017).
+The analyses were originally based on [this Repo](https://github.com/Hackuarium/water-quality-2016-2017).
 
 For more information please refer to [http://wiki.hackuarium.ch/w/CBEMresults](http://wiki.hackuarium.ch/w/CBEMresults)
 
