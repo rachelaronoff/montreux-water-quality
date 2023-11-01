@@ -9,9 +9,11 @@ The analyses were originally based on [this Repo](https://github.com/Hackuarium/
 For more information please refer to [http://wiki.hackuarium.ch/w/CBEMresults](http://wiki.hackuarium.ch/w/CBEMresults)
 
 Here are the 2021 references for this work
+
 Article: Participatory research to monitor lake water pollution
 Article DOI: 10.1002/2688-8319.12094
 Journal: Ecological Solutions and Evidence
+
 Zenodo DOI: 10.5281/zenodo.5094576
 
 A [new repo](https://github.com/hammerdirt-analyst/qualite-deau) and potential app for future data collection, potentially, is being made for subsequent work.
